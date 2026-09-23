@@ -1,31 +1,48 @@
-# 🍏 iOS-Inspired Budget Tracker App
+## Selected work
 
-A modern, minimalist Android application built with native Java, featuring a sleek iOS-inspired design language, "Liquid Glass" navigation, and comprehensive financial analytics.
+<div align="center">
 
-## ✨ Features
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=danithu-nimjaya&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F330407617%3Fv%3D4" alt="danithu-nimjaya hero visual" />
+</p>
 
-- **iOS Aesthetics:** Clean typography, Large Titles, grouped table view cards, and soft neutral color palettes (`#F2F2F7`).
-- **Liquid Glass Navigation:** Floating bottom navigation bar with semi-transparent frosted glass styling.
-- **Transaction Management:** Easily toggle and record Income and Expenses with automatic current date tracking.
-- **Financial Analytics:** Visual breakdown of income vs. expenses using interactive charts powered by **MPAndroidChart**.
-- **Data Persistence:** Built-in local data saving using `SharedPreferences` to ensure your records are remembered across sessions.
-- **Interactive History:** Detailed transaction log with category icons, color-coded amounts, and swipe/long-press deletion.
+<h1>Danithu Nimjaya</h1>
+<p><b>Freelance developer or consultant</b></p>
 
-## 🛠️ Tech Stack
+</div>
 
-- **Language:** Java
-- **UI Architecture:** Fragments, ConstraintLayout, ScrollView
-- **Libraries:** [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) for data visualization
-- **Storage:** SharedPreferences (JSON parsing for lists)
+## The idea behind the work
 
-## 📱 Screenshots & UI Design
+> 🚀 Full-stack Developer | A/L Graduate (Pending Results) | Currently expanding my skills with an ICT course | Passionate about building clean and modern web app
 
-- **Home / Dashboard:** Total balance overview and quick transaction entry form.
-- **History:** Chronological transaction log with income/expense indicators.
-- **Analytics / Charts:** Visual bar and pie charts representing financial health.
+- 📍 Based in **Colombo,SriLanka**
+- 🏢 Working at **visualverse**
+- 👥 **1** followers · **2** following
 
-## 🚀 Getting Started
+*Small, useful work over vague claims.*
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/budget-tracker-app.git](https://github.com/your-username/budget-tracker-app.git)
+## Case studies
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/Danithu-nimjaya/Danithu-nimjaya">Danithu-nimjaya</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
+
+## Details worth noticing
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=danithu-nimjaya&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F330407617%3Fv%3D4" alt="danithu-nimjaya highlights visual" />
+</p>
+
+<p><b>Danithu Nimjaya</b> is shipping 1 public projects with 0 stars of proof.</p>
+
+## Creative toolkit
+
+No public language data yet — building the first project in the open.
+
+## Make something memorable
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=danithu-nimjaya&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F330407617%3Fv%3D4" alt="danithu-nimjaya social visual" />
+</p>
+
+<a href="https://github.com/danithu-nimjaya">GitHub</a>
